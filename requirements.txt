@@ -1,0 +1,9 @@
+# Chương trình Quản lý Công việc Hàng ngày (To-Do List)
+# Không yêu cầu thư viện bên ngoài
+# Chỉ sử dụng thư viện chuẩn của Python 3.6+
+
+# Standard library modules used:
+# - json
+# - os
+# - datetime
+# - typing
